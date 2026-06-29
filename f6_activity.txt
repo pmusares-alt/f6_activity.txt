@@ -1,0 +1,1 @@
+Version control plays an important role in collaborative projects by keeping a record of changes made to files. It enables several team members to work on the same project at the same time without replacing each other's updates. It also allows users to recover earlier versions if errors occur, making collaboration more organized and dependable.
